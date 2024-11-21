@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "github": "^14.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
